@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "title": "Tienda Online con React",
+      "description": "Plataforma de comercio electrónico desarrollada con React, Redux y Stripe para pagos seguros.",
+      "image": "https://via.placeholder.com/400x300",
+      "url": "https://proyecto.com/tienda"
+    },
+    {
+      "title": "App de Gestión de Tareas",
+      "description": "Aplicación móvil iOS/Android hecha en React Native con soporte para autenticación y notificaciones push.",
+      "image": "https://via.placeholder.com/400x300",
+      "url": "https://proyecto.com/todoapp"
+    },
+    {
+      "title": "Sistema de Análisis de Datos",
+      "description": "Dashboard en D3.js y Flask para visualización de KPIs empresariales.",
+      "image": "https://via.placeholder.com/400x300",
+      "url": "https://proyecto.com/analytics"
+    }
+  ]
+}
